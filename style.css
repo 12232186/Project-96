@@ -1,0 +1,28 @@
+button{
+    border-color: rebeccapurple;
+    border-style: dotted;
+    cursor: pointer;
+    color: lightseagreen;
+    width: 85px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(10, 0, 153);
+}
+body{
+
+background-image: linear-gradient(to right top, lavender,skyblue, pink, rgb(165, 58, 58), #f0f409);
+
+}
+h1{
+    color: rgb(0, 149, 160);
+    text-decoration: underline;
+}
+.logo{
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: rgb(0, 218, 170);
+    border-style: solid;
+}
